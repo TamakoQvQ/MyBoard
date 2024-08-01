@@ -1,4 +1,4 @@
-# 基于vue3.0的敏捷看板
+# 基于Vue3.0的敏捷看板
 ****
 # Vue 3 + TypeScript + Vite
 
